@@ -1,0 +1,12 @@
+{
+    "data": {
+        "title": "这是一个标题",
+        "mygq": [
+          { "src": "assets/mygq/1.jpg" },
+          { "src": "assets/mygq/2.jpg" },
+          { "src": "assets/mygq/3.jpg" },
+          { "src": "assets/mygq/4.jpg" },
+          { "src": "assets/mygq/5.jpg" }
+        ]
+      }
+}
